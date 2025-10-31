@@ -63,7 +63,7 @@
 
 ---
 
-## 🎬 Just for Fun
+## 😂 When Code Meets Coffee
 
 <p align="center">
   <img width="400" src="https://skillenza.wordpress.com/wp-content/uploads/2019/09/651e1-66625-unnamed.gif?w=413&h=247" alt="GIF" />
