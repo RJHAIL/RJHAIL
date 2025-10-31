@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rjhail.rjhail" alt="visitors"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RJHAIL.RJHAIL" alt="visitors"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raghav+Joshi!;" alt="Typing SVG" />
@@ -42,7 +42,7 @@
 ## 🧠 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjhail&theme=react-dark&bg_color=1a1b27&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RJHAIL&theme=react-dark&bg_color=1a1b27&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -55,14 +55,23 @@
 </p>
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rjhail&layout=compact&theme=react&hide=html&langs_count=8&border_radius=10" alt="Top Languages" />
+  <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RJHAIL&layout=compact&theme=react&hide=html&langs_count=8&border_radius=10" alt="Top Languages" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RJHAIL&theme=react&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
 
 ## 🐍 Contributions Animation
 
 <p align="center">
-  <img src="" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/RJHAIL/RJHAIL/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -75,5 +84,5 @@
 
 ---
 
-> *"First, solve the problem. Then, write the code." – John Johnson  
+> *"First, solve the problem. Then, write the code."* – John Johnson  
 > Crafted with ❤️ by [Raghav Joshi](https://github.com/RJHAIL)
