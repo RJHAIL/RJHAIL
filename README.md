@@ -23,7 +23,7 @@
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joshiraghav4321@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-joshi)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-joshi-b5a087241/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioraghav6.netlify.app/)
 
 </div>
@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=rjhail&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rjhail&theme=react&count_private=true&border_radius=10" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=RJHAIL&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RJHAIL&theme=react&count_private=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
