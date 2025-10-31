@@ -54,6 +54,18 @@
   <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RJHAIL&theme=react&count_private=true&border_radius=10" alt="GitHub Streak" />
 </p>
 ---
+---
+
+## 🐍 Contributions Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sumeet-162/Sumeet-162/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+
+
+
+---
 
 ## 😂 When Code Meets Coffee
 
