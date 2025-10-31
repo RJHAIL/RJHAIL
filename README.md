@@ -58,20 +58,11 @@
   <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rjhail&layout=compact&theme=react&hide=html&langs_count=8&border_radius=10" alt="Top Languages" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rjhail&theme=react&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🐍 Contributions Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rjhail/rjhail/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="" alt="Contribution Snake" />
 </p>
 
 ---
@@ -79,10 +70,10 @@
 ## 🎬 Just for Fun
 
 <p align="center">
-  <img width="400" src="https://raw.githubusercontent.com/Sumeet-162/Google-Resume/main/06f21a161921919.63cd7887d0a70.gif" alt="GIF" />
+  <img width="400" src="https://skillenza.wordpress.com/wp-content/uploads/2019/09/651e1-66625-unnamed.gif?w=413&h=247" alt="GIF" />
 </p>
 
 ---
 
-> *"First, solve the problem. Then, write the code."* – John Johnson  
-> Crafted with ❤️ by [Raghav Joshi](https://github.com/rjhail)
+> *"First, solve the problem. Then, write the code." – John Johnson  
+> Crafted with ❤️ by [Raghav Joshi](https://github.com/RJHAIL)
