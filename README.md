@@ -53,14 +53,6 @@
   <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=RJHAIL&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RJHAIL&theme=react&count_private=true&border_radius=10" alt="GitHub Streak" />
 </p>
-
----
-## 🐍 Contributions Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RJHAIL/RJHAIL/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
 ---
 
 ## 😂 When Code Meets Coffee
@@ -71,5 +63,5 @@
 
 ---
 
-> *"First, solve the problem. Then, write the code."* – John Johnson  
+> *"First, solve the problem. Then, write the code." – John Johnson  
 > Crafted with ❤️ by [Raghav Joshi](https://github.com/RJHAIL)
