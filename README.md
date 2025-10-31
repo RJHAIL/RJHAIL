@@ -54,20 +54,7 @@
   <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RJHAIL&theme=react&count_private=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RJHAIL&layout=compact&theme=react&hide=html&langs_count=8&border_radius=10" alt="Top Languages" />
-</p>
-
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RJHAIL&theme=react&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🐍 Contributions Animation
 
 <p align="center">
