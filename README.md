@@ -75,5 +75,5 @@
 
 ---
 
-> *"First, solve the problem. Then, write the code." – John Johnson  
+> *"First, solve the problem. Then, write the code."– John Johnson  
 > Crafted with ❤️ by [Raghav Joshi](https://github.com/RJHAIL)
